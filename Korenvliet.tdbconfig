@@ -1,0 +1,372 @@
+# THIS FILE IS MACHINE GENERATED - DO NOT EDIT
+# TADS Workbench configuration settings
+
+DebugToolbar:rebarWidth:I:-1
+src win edit mode:Path.t:S:0:TADS 3
+src win selrange:Foyer.y.t:S:0:0,0
+src win selrange:Foyer.y.t:S:1:0,0
+src win selrange:InsideClinic.t:S:0:0,0
+src win selrange:InsideClinic.t:S:1:483,483
+build:ext resfile cnt:I:0
+line wrap:Scripts\Auto 340.cmd:S:0:N
+src win split:%tads%lib\adv3\action.t:S:0:0.000000
+build:defaults set:I:1
+watch win:pos:R:312,742,596,853
+watch win:vis:I:0
+src win selrange:%tads%lib\adv3\adv3.h:S:0:0,0
+src win selrange:%tads%lib\adv3\adv3.h:S:1:390,390
+src win edit mode:Brookside.t:S:0:TADS 3
+src win split:%tads%lib\adv3\parser.t:S:0:0.000000
+src win split:%tads%lib\adv3\travel.t:S:0:0.000000
+src win split:%tads%lib\adv3\en_us\en_us.t:S:0:0.000000
+build:c ops:I:0
+src win selrange:Buyable.t:S:0:0,0
+src win selrange:Buyable.t:S:1:114,114
+SearchToolbar:rebarNewLine:I:0
+src win edit mode:Foyer.y.t:S:0:TADS 3
+log win vis::I:1
+log win pos::R:426,124,1918,1015
+MenuBar:rebarVis:I:1
+src win edit mode:InsideClinic.t:S:0:TADS 3
+src win split:InsideSupermarket.t:S:0:0.000000
+line wrap:%tads%lib\adv3\thing.t:S:0:N
+DocToolbar:rebarIndex:I:3
+line wrap:%tads%lib\adv3\score.t:S:0:N
+line wrap:Forest.t:S:0:»
+build:include_files-sys:S:0:system
+build:include_files-sys:S:1:system
+build:include_files-sys:S:2:system
+build:include_files-sys:S:3:system
+build:include_files-sys:S:4:system
+build:include_files-sys:S:5:system
+build:include_files-sys:S:6:system
+build:include_files-sys:S:7:system
+build:include_files-sys:S:8:system
+build:include_files-sys:S:9:system
+build:include_files-sys:S:10:system
+build:include_files-sys:S:11:system
+build:include_files-sys:S:12:system
+build:include_files-sys:S:13:system
+build:include_files-sys:S:14:system
+build:include_files-sys:S:15:system
+build:include_files-sys:S:16:lib
+build:include_files-sys:S:17:system
+build:include_files-sys:S:18:lib
+src win edit mode:%tads%lib\adv3\adv3.h:S:0:TADS 3
+DocToolbar:rebarWidth:I:-1
+src win split:UndergroundStream.t:S:0:0.000000
+src win selrange:%tads%lib\adv3\action.t:S:0:0,0
+src win selrange:%tads%lib\adv3\action.t:S:1:46518,46518
+src win split:%tads%lib\adv3\exec.t:S:0:0.000000
+DebugToolbar:rebarVis:I:1
+src win split:Brook.t:S:0:0.000000
+src win split:Patio.t:S:0:0.000000
+line wrap:Cave.t:S:0:\
+src win split:Verbs.t:S:0:0.000000
+src win edit mode:Buyable.t:S:0:TADS 3
+src win split:Foyer.t:S:0:0.000000
+build:zipfile:S:0:Korenvliet.zip
+src win split:%tads%lib\adv3\output.t:S:0:0.000000
+src win selrange:%tads%lib\adv3\parser.t:S:0:0,0
+src win selrange:%tads%lib\adv3\parser.t:S:1:74868,74868
+src win selrange:%tads%lib\adv3\travel.t:S:0:0,0
+src win selrange:%tads%lib\adv3\travel.t:S:1:35471,35471
+watch win:sep xpos 0:I:142
+src win selrange:%tads%lib\adv3\en_us\en_us.t:S:0:0,0
+src win selrange:%tads%lib\adv3\en_us\en_us.t:S:1:155663,155663
+watch win:sep xpos 1:I:142
+watch win:sep xpos 2:I:142
+line wrap:Path.t:S:0:8
+watch win:sep xpos 3:I:142
+build:installer options:S:0:name=Korenvliet
+build:installer options:S:1:savext=Korenvliet
+src win split:Conservatory.t:S:0:0.000000
+search:start at top:I:0
+src win edit mode:%tads%lib\adv3\action.t:S:0:TADS 3
+src win selrange:InsideSupermarket.t:S:0:0,0
+src win selrange:InsideSupermarket.t:S:1:1895,1895
+EditToolbar:rebarNewLine:I:1
+src win selrange:UndergroundStream.t:S:0:0,0
+src win selrange:UndergroundStream.t:S:1:64,81
+src win split:Jog.t:S:0:0.000000
+src win selrange:%tads%lib\adv3\exec.t:S:0:0,0
+src win selrange:%tads%lib\adv3\exec.t:S:1:61482,61482
+src win selrange:Brook.t:S:0:0,0
+src win selrange:Brook.t:S:1:435,435
+src win selrange:Patio.t:S:0:0,0
+src win selrange:Patio.t:S:1:1395,1395
+line wrap:Brookside.t:S:0:ê
+src win edit mode:%tads%lib\adv3\parser.t:S:0:TADS 3
+src win edit mode:%tads%lib\adv3\travel.t:S:0:TADS 3
+src win edit mode:%tads%lib\adv3\en_us\en_us.t:S:0:TADS 3
+proj search:exact case:I:0
+src win split:Landfill.t:S:0:0.000000
+src win selrange:Verbs.t:S:0:0,0
+src win selrange:Verbs.t:S:1:92,92
+src win selrange:Foyer.t:S:0:0,0
+src win selrange:Foyer.t:S:1:968,968
+DocToolbar:rebarVis:I:1
+line wrap:Foyer.y.t:S:0:
+src win selrange:%tads%lib\adv3\output.t:S:0:0,0
+src win selrange:%tads%lib\adv3\output.t:S:1:51718,51718
+auto-script:quit sequences:S:0:<nocase>[<]line[>]<space>*q(uit)?<space>*
+auto-script:quit sequences:S:1:<nocase>[<]line[>]<space>*y.*
+src win edit mode:InsideSupermarket.t:S:0:TADS 3
+line wrap:InsideClinic.t:S:0:.
+src win split:Lot.t:S:0:0.000000
+SearchToolbar:rebarIndex:I:2
+search:wrap:I:1
+src win selrange:Conservatory.t:S:0:0,0
+src win selrange:Conservatory.t:S:1:765,509
+auto-script:next-id:I:358
+src win edit mode:UndergroundStream.t:S:0:TADS 3
+line wrap:%tads%lib\adv3\adv3.h:S:0:N
+SearchToolbar:rebarWidth:I:281
+src win edit mode:%tads%lib\adv3\exec.t:S:0:TADS 3
+src win edit mode:Brook.t:S:0:TADS 3
+src win edit mode:Patio.t:S:0:TADS 3
+search:text:S:0:mainhole
+search:text:S:1:
+docking config::S:0:CL
+docking config::S:1:W0,424,270,2,711,302,861,D,L,project win
+docking config::S:2:W0,424,150,175,711,345,861,D,L,script win
+docking config::S:3:CB
+docking config::S:4:W3,270,170,304,711,604,861,D,B,watch win
+docking config::S:5:W3,270,170,2,711,302,861,D,B,locals win
+docking config::S:6:W-1,170,170,52,52,1490,635,M,R,stack win
+docking config::S:7:W-1,170,170,0,0,1412,577,M,R,log win
+src win edit mode:Verbs.t:S:0:TADS 3
+locals win:pos:R:10,742,294,853
+locals win:vis:I:0
+main win max::I:1
+line wrap:Buyable.t:S:0:N
+src win edit mode:Foyer.t:S:0:TADS 3
+src win selrange:Jog.t:S:0:0,0
+src win selrange:Jog.t:S:1:548,548
+src win edit mode:%tads%lib\adv3\output.t:S:0:TADS 3
+proj search:collapse spaces:I:0
+src win split:%tads%lib\adv3\actions.t:S:0:0.000000
+src win pos:Korenvliet.t:R:26,26,1438,603
+search:exact case:I:0
+src win selrange:Landfill.t:S:0:0,0
+src win selrange:Landfill.t:S:1:1955,1955
+mdi win list::S:0::log
+mdi win list::S:1:GameInfo.txt
+mdi win list::S:2:%tads%lib\adv3\en_us\en_us.h
+mdi win list::S:3:%tads%lib\adv3\en_us\en_us.t
+mdi win list::S:4:%tads%lib\adv3\en_us\instruct.t
+mdi win list::S:5:Hallway.t
+mdi win list::S:6:Korenvliet.t
+mdi win list::S:7:InsideSupermarket.t
+mdi win list::S:8:WestCellar.t
+mdi win list::S:9:Cave.t
+mdi win list::S:10:Barn.t
+mdi win list::S:11:EastCellar.t
+mdi win list::S:12:TopOfStairs.t
+mdi win list::S:13:Sewer.t
+mdi win list::S:14:UndergroundStream.t
+mdi win list::S:15:UnderBay.t
+mdi win list::S:16:UnderLake.t
+mdi win list::S:17:Bay.t
+mdi win list::S:18:Lake.t
+mdi win list::S:19:Dive.t
+mdi win list::S:20:Inflate.t
+mdi win list::S:21:Shore.t
+mdi win list::S:22:Patio.t
+mdi win list::S:23:Study.t
+mdi win list::S:24:Atrium.t
+mdi win list::S:25:Conservatory.t
+mdi win list::S:26:Living.t
+mdi win list::S:27:Foyer.t
+mdi win list::S:28:Plateau.t
+mdi win list::S:29:MainStreet.t
+mdi win list::S:30:Landfill.t
+mdi win list::S:31:Path.t
+mdi win list::S:32:Lot.t
+mdi win list::S:33:Jog.t
+mdi win list::S:34:Buyable.t
+mdi win list::S:35:Brook.t
+mdi win list::S:36:Forest.t
+mdi win list::S:37:Meadow.t
+mdi win list::S:38:InsideClinic.t
+mdi win list::S:39:Fly.t
+mdi win list::S:40:%tads%lib\adv3\objects.t
+mdi win list::S:41:%tads%lib\adv3\travel.t
+mdi win list::S:42:Build.t
+build:webpage dir:S:0:web
+src win edit mode:Conservatory.t:S:0:TADS 3
+main win pos::R:-8,-8,1928,1048
+build:srczipfile:S:0:KorenvlietSource.zip
+proj search:whole word:I:0
+help win vis::I:0
+build:ignore case:I:0
+src win selrange:Lot.t:S:0:0,0
+src win selrange:Lot.t:S:1:369,369
+src win split:Scripts\Auto 340.cmd:S:0:0.000000
+line wrap:%tads%lib\adv3\action.t:S:0:N
+docsearch win vis::I:0
+build:exe:S:0:Korenvliet.exe
+script win:pos:R:2,885,417,1015
+script win:vis:I:1
+build:use charmap:I:0
+src win edit mode:Jog.t:S:0:TADS 3
+EditToolbar:rebarIndex:I:1
+hist win vis::I:0
+line wrap:%tads%lib\adv3\parser.t:S:0:N
+line wrap:%tads%lib\adv3\travel.t:S:0:N
+src win edit mode:Landfill.t:S:0:TADS 3
+line wrap:%tads%lib\adv3\en_us\en_us.t:S:0:N
+EditToolbar:rebarWidth:I:1399
+build:include_files:S:0:tads.h
+build:include_files:S:1:t3.h
+build:include_files:S:2:lookup.h
+build:include_files:S:3:systype.h
+build:include_files:S:4:vector.h
+build:include_files:S:5:charset.h
+build:include_files:S:6:bytearr.h
+build:include_files:S:7:tadsgen.h
+build:include_files:S:8:tadsio.h
+build:include_files:S:9:reflect.h
+build:include_files:S:10:strbuf.h
+build:include_files:S:11:file.h
+build:include_files:S:12:filename.h
+build:include_files:S:13:dict.h
+build:include_files:S:14:tok.h
+build:include_files:S:15:gramprod.h
+build:include_files:S:16:adv3.h
+build:include_files:S:17:strcomp.h
+build:include_files:S:18:en_us.h
+SearchToolbar:rebarVis:I:1
+MenuBar:rebarNewLine:I:0
+src win selrange:%tads%lib\adv3\actions.t:S:0:0,0
+src win selrange:%tads%lib\adv3\actions.t:S:1:51835,51839
+src win edit mode:Lot.t:S:0:TADS 3
+line wrap:InsideSupermarket.t:S:0:N
+proj search:regex:I:0
+src win split:%tads%lib\adv3\thing.t:S:0:0.000000
+locals win:sep xpos 0:I:142
+src win split:%tads%lib\adv3\score.t:S:0:0.000000
+locals win:sep xpos 1:I:142
+src win split:Forest.t:S:0:0.000000
+search:whole word:I:0
+line wrap:UndergroundStream.t:S:0:
+src win selrange:Scripts\Auto 340.cmd:S:0:0,0
+src win selrange:Scripts\Auto 340.cmd:S:1:0,0
+line wrap:%tads%lib\adv3\exec.t:S:0:N
+DebugToolbar:rebarNewLine:I:1
+build:debug_image_file:S:0:debug\Korenvliet.t3
+line wrap:Brook.t:S:0:N
+line wrap:Patio.t:S:0:.
+search dlg:old searches:S:0:mainhole
+search dlg:old searches:S:1:Buy
+search dlg:old searches:S:2:Build
+search dlg:old searches:S:3:Take
+search dlg:old searches:S:4:dobjTake
+search dlg:old searches:S:5:Taken.
+search dlg:old searches:S:6:Taken
+search dlg:old searches:S:7:
+src win split:Cave.t:S:0:0.000000
+line wrap:Verbs.t:S:0:
+line wrap:Foyer.t:S:0:\
+src win edit mode:%tads%lib\adv3\actions.t:S:0:TADS 3
+find dialog:pos:R:738,413,1182,666
+line wrap:%tads%lib\adv3\output.t:S:0:N
+search dlg:old search opts:S:0:
+search dlg:old search opts:S:1:
+search dlg:old search opts:S:2:
+search dlg:old search opts:S:3:
+search dlg:old search opts:S:4:
+search dlg:old search opts:S:5:
+search dlg:old search opts:S:6:
+search dlg:old search opts:S:7:
+src win split:Path.t:S:0:0.000000
+line wrap:Conservatory.t:S:0:
+src win edit mode:Scripts\Auto 340.cmd:S:0:Command Script
+search:regex:I:0
+src win selrange:%tads%lib\adv3\thing.t:S:0:0,0
+src win selrange:%tads%lib\adv3\thing.t:S:1:345778,345778
+mdi tab order::S:0:6,29,23,5,24,21,37,39,42,28,20,10,18,17,16,15,26,13,33,40,41,11,8,12,38,7,34,36,35,32,31,30,27,25,22,19,14,9,4,3,2,0,1
+src win selrange:%tads%lib\adv3\score.t:S:0:0,0
+src win selrange:%tads%lib\adv3\score.t:S:1:19,19
+src win selrange:Forest.t:S:0:0,0
+src win selrange:Forest.t:S:1:1411,1391
+build:rlsgam:S:0:Korenvliet.t3
+EditToolbar:rebarVis:I:1
+main win mdi max::I:1
+auto-script:default quit sequences set:I:1
+line wrap:Jog.t:S:0:¯
+src win split:Brookside.t:S:0:0.000000
+src win selrange:Cave.t:S:0:0,0
+src win selrange:Cave.t:S:1:444,0
+line wrap:Landfill.t:S:0:.
+DocToolbar:rebarNewLine:I:0
+src win split:Foyer.y.t:S:0:0.000000
+src win split:InsideClinic.t:S:0:0.000000
+line wrap:Lot.t:S:0:
+src win edit mode:%tads%lib\adv3\thing.t:S:0:TADS 3
+src win edit mode:%tads%lib\adv3\score.t:S:0:TADS 3
+MenuBar:rebarIndex:I:0
+src win selrange:Path.t:S:0:0,0
+src win selrange:Path.t:S:1:259,259
+src win edit mode:Forest.t:S:0:TADS 3
+mdi win title::S:0:
+mdi win title::S:1:GameInfo.txt
+mdi win title::S:2:%tads%lib\adv3\en_us\en_us.h
+mdi win title::S:3:%tads%lib\adv3\en_us\en_us.t
+mdi win title::S:4:%tads%lib\adv3\en_us\instruct.t
+mdi win title::S:5:Hallway.t
+mdi win title::S:6:Korenvliet.t
+mdi win title::S:7:InsideSupermarket.t
+mdi win title::S:8:WestCellar.t
+mdi win title::S:9:Cave.t
+mdi win title::S:10:Barn.t
+mdi win title::S:11:EastCellar.t
+mdi win title::S:12:TopOfStairs.t
+mdi win title::S:13:Sewer.t
+mdi win title::S:14:UndergroundStream.t
+mdi win title::S:15:UnderBay.t
+mdi win title::S:16:UnderLake.t
+mdi win title::S:17:Bay.t
+mdi win title::S:18:Lake.t
+mdi win title::S:19:Dive.t
+mdi win title::S:20:Inflate.t
+mdi win title::S:21:Shore.t
+mdi win title::S:22:Patio.t
+mdi win title::S:23:Study.t
+mdi win title::S:24:Atrium.t
+mdi win title::S:25:Conservatory.t
+mdi win title::S:26:Living.t
+mdi win title::S:27:Foyer.t
+mdi win title::S:28:Plateau.t
+mdi win title::S:29:MainStreet.t
+mdi win title::S:30:Landfill.t
+mdi win title::S:31:Path.t
+mdi win title::S:32:Lot.t
+mdi win title::S:33:Jog.t
+mdi win title::S:34:Buyable.t
+mdi win title::S:35:Brook.t
+mdi win title::S:36:Forest.t
+mdi win title::S:37:Meadow.t
+mdi win title::S:38:InsideClinic.t
+mdi win title::S:39:Fly.t
+mdi win title::S:40:%tads%lib\adv3\objects.t
+mdi win title::S:41:%tads%lib\adv3\travel.t
+mdi win title::S:42:Build.t
+src win split:%tads%lib\adv3\adv3.h:S:0:0.000000
+search:dir:I:1
+MenuBar:rebarWidth:I:-1
+build:installer prog:S:0:Korenvliet_Setup.exe
+project win:pos:R:2,121,417,859
+project win:vis:I:1
+auto-script:dir:S:0:Scripts
+src win edit mode:Cave.t:S:0:TADS 3
+stack win pos::R:338,207,1760,751
+filesearch win vis::I:0
+stack win vis::I:0
+DebugToolbar:rebarIndex:I:4
+src win split:Buyable.t:S:0:0.000000
+searchMode::I:1
+src win selrange:Brookside.t:S:0:0,0
+src win selrange:Brookside.t:S:1:69,69
+line wrap:%tads%lib\adv3\actions.t:S:0:N
+

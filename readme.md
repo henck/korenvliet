@@ -12,6 +12,15 @@ This project can be loaded and compiled using the [TADS 3 workbench](http://www.
 
 Everyone is welcome to improve Korenvliet's code so that the adventure can be made better.
 
+## Bugfixes
+
+### February 2017 
+
+* Placing the rubber boat in the brook or lake yielded confusing responses.
+* Typos in barn location
+* Plateau location showed no exits
+* Total score was 7, but 8 points can be scored
+
 ## License
 
 The use of this code is governed by the [GPL 3.0 licence](http://www.gnu.org/licenses/gpl-3.0.en.html).

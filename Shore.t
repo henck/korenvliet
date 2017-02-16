@@ -39,6 +39,93 @@ shore: OutdoorRoom 'Lakeshore'
       boat.moveInto(me.location);
       inherited;
     }
+  }
+  iobjFor(PutIn) {
+    verify() {}
+    action() {
+      if(gDobj == boat) {
+        if(boat.isInflated) {
+          "If you put the boat in the water, it'll just drift off. Simply go into the lake with the boat. ";
+        } else {
+          "The uninflated boat will just sink. ";
+        }
+      } else {
+        "If you put that in the lake, you'll lose it. ";
+      }
+    }
+  }
+  iobjFor(PutOn) {
+    verify() {}
+    action() {
+      if(gDobj == boat) {
+        if(boat.isInflated) {
+          "If you put the boat in the water, it'll just drift off. Simply go into the lake with the boat. ";
+        } else {
+          "The uninflated boat will just sink. ";
+        }
+      } else {
+        "If you put that in the lake, you'll lose it. ";
+      }
+    }
   }  
+;
+
++ smallbrookAtLake: Fixture 'wide muddy small brook/river/channel/creek/water' 'small brook'
+  "The brook is quite wide, and its muddy banks are very slippery. "
+  isWarned = nil
+  dobjFor(Enter) {
+    verify {}
+    action() {
+      if(!isWarned) {
+        "The muddy bank of the brook is very slippery. Stepping into the brook might be dangerous. ";
+        isWarned = true;
+      }
+      else {
+        "Stepping into the brook, you slip on the muddy bank and fall awkwardly, spraining your wrist
+        quite painfully.\bYou make your way to the local clinic for treatment. Be more careful in the future! \b";
+        me.moveInto(bed);
+        me.makePosture(lying);
+        me.lookAround(true);
+        isWarned = nil; /* Can try again if desired. */
+      }
+    }
+  }
+  dobjFor(JumpOver) {
+    verify {}
+    action() {
+      if(!isWarned) {
+        "The muddy bank of the brook is very slippery. Trying to jump might be dangerous. ";
+        isWarned = true;
+      }
+      else {
+        "Trying to jump the brook, you slip on the muddy bank and fall awkwardly, spraining your wrist
+        quite painfully.\bYou make your way to the local clinic for treatment. Be more careful in the future! \b";
+        me.moveInto(bed);
+        me.makePosture(lying);
+        me.lookAround(true);
+        isWarned = nil; /* Can try again if desired. */
+      }
+    }
+  }
+  iobjFor(PutIn) {
+    verify() {}
+    action() {
+      if(gDobj == boat) {
+        "The brook isn't very deep. The sharp shones on the bed would rip your boat to shreds. ";
+      } else {
+        "If you put that in the brook, you'll lose it. ";
+      }
+    }
+  }
+  iobjFor(PutOn) {
+    verify() {}
+    action() {
+      if(gDobj == boat) {
+        "The brook isn't very deep. The sharp shones on the bed would rip your boat to shreds. ";
+      } else {
+        "If you put that in the brook, you'll lose it. ";
+      }
+    }
+  }
 ;
 

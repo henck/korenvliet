@@ -43,7 +43,7 @@ versionInfo: GameID
 
 gameMain: GameMainDef
   initialPlayerChar = me
-  maxScore = 7
+  maxScore = 8
   
   showIntro()
   {

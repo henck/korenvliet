@@ -19,7 +19,7 @@ plateau: OutdoorRoom 'Plateau'
       "\bThere is a hot-air balloon here. ";
     }
   }
-  north = barnEntrance
+  north = barn
   down: NoTravelMessage { "The plateau is rather high. It's impossible to climb down. "; }
   east: NoTravelMessage { "You can't go there; you would fall right off the plateau. "; }
   west asExit(east)

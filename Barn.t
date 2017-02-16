@@ -23,8 +23,10 @@ barn: Room 'Abandoned barn'
 ;
 
 + Decoration 'cobweb/web*cobwebs/webs/dust' 'cobwebs'
-  "This barn must have been abanboned for quite some time. There are cobwebs in every corner. "
+  "This barn must have been abandoned for quite some time. There are cobwebs in every corner. "
   isPlural = true
 ;
 
-
++ plateauExit: Enterable ->plateau 'plateau' 'plateau'
+  "The farm's old doors open onto the plateau outside. "
+;

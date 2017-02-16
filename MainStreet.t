@@ -39,6 +39,14 @@ mainStreet: OutdoorRoom 'Main Street'
   }
 ;
 
++ forestPath: Enterable ->forest 'narrow path/forest' 'forest path'
+  "The narrow path disappears between the trees. ";
+;
+
++ toVacantLot: Enterable ->lot 'vacant lot' 'vacant lot'
+  "The vacant lot to the north is a bit of an eyesore here in the village center. ";
+;
+
 + Decoration 'small sign' 'sign'
   "The small sign reads \"open\", with \"hello, we are\" above that in a smaller type. The 
   doors to the store are open too, so clearly that statement is true. "
@@ -49,7 +57,7 @@ mainStreet: OutdoorRoom 'Main Street'
   isPlural = true
 ;
 
-+ Decoration 'main street' 'street'
++ Decoration 'cobbled main street/cobble*cobbles' 'street'
   "The street is fairly wide, level, and covered in cobbles. It runs through the village from 
   the northwest to the southeast. "
 ;
